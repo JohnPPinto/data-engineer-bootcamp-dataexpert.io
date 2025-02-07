@@ -1,0 +1,38 @@
+**Feedback on Amazon Android Application's KPI and Experimentation Submission**
+
+**User Journey:**
+- **Clarity and Detail:** Your description of the user journey with the Amazon Android app is comprehensive and engaging. You highlighted how the app features have evolved and contributed to enhancing your shopping experience. Mentioning specific features like one-click ordering, personalized recommendations, and integrating Alexa adds depth to your narrative.
+- **Engagement:** You have effectively conveyed the impact these features had on your experience, making a compelling case for your continued use of the application.
+
+**Experiment Design:**
+1. **Experiment 1: Enhanced Personalization**
+   - **Test Design:** The allocation of the control group and two test groups (based on different personalization methodologies) is logical and well-structured. It allows for comparative analysis of personalization strategies.
+   - **Hypothesis:** Clearly stated, distinguishing between the null and alternative hypotheses.
+   - **Metrics:** The leading and lagging metrics are appropriate and aligned with the hypothesis, likely providing meaningful insights. Leading metrics focus on engagement immediately after personalization, while lagging metrics highlight longer-term impacts like sales and retention.
+
+2. **Experiment 2: Improved Search Functionality**
+   - **Test Design:** The design cleverly tests two aspects of search improvement: algorithm enhancement and user interface enhancements. This differentiation is excellent for understanding which aspect has more substantial effects.
+   - **Hypothesis:** Clearly articulated, focusing on user satisfaction and sales.
+   - **Metrics:** Leading metrics accurately assess direct user interactions with the search function, while lagging metrics chase the broader impact on satisfaction and sales.
+
+3. **Experiment 3: Gamification of Shopping Experience**
+   - **Test Design:** Dividing the gamification aspect into two distinct strategies—points for purchases and shopping challenges—demonstrates a well-thought-out test design.
+   - **Hypothesis:** The hypotheses are clear and aim to measure engagement and loyalty.
+   - **Metrics:** Appropriately chosen, they assess immediate user engagement and broader customer loyalty patterns.
+
+**Overall Impact:**
+- The proposed experiments are practical and showcase a thoughtful understanding of potential improvements to the Amazon Android application. The focus on personalization, search improvements, and gamification covers critical aspects of user interaction.
+- Execution details for each experiment are adequately outlined, presenting a clear plan for implementation and analysis.
+
+**Suggestions for Improvement:**
+- Consider briefly discussing potential confounding variables or factors that might influence the outcomes of your experiments.
+
+Your submission meets the assignment's requirements effectively, showing analytical thinking and a good grasp of experimental design aimed at improving user experience.
+
+**FINAL GRADE:**
+```json
+{
+  "letter_grade": "A",
+  "passes": true
+}
+```
